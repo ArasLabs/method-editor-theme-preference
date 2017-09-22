@@ -1,0 +1,21 @@
+﻿<AML>
+ <Item type="Property" id="05EB69439B9A41889A0E0CA67BABCB67" action="add">
+  <column_alignment>left</column_alignment>
+  <data_source keyed_name="Method Editor Themes">8642E490164A45CD93BF9799578DA2D8</data_source>
+  <data_type>list</data_type>
+  <is_hidden>0</is_hidden>
+  <is_hidden2>0</is_hidden2>
+  <is_indexed>0</is_indexed>
+  <is_keyed>0</is_keyed>
+  <is_multi_valued>0</is_multi_valued>
+  <is_required>0</is_required>
+  <label xml:lang="en">Method Editor Theme</label>
+  <range_inclusive>0</range_inclusive>
+  <readonly>0</readonly>
+  <sort_order>19712</sort_order>
+  <source_id keyed_name="Core_GlobalLayout" type="ItemType" name="Core_GlobalLayout">0BDF3A9BA8D94A18A016541653EA9097</source_id>
+  <stored_length>32</stored_length>
+  <track_history>0</track_history>
+  <name>method_editor_theme</name>
+ </Item>
+</AML>

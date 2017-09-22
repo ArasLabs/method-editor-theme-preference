@@ -1,0 +1,199 @@
+﻿<AML>
+ <Item type="List" id="8642E490164A45CD93BF9799578DA2D8" action="add">
+  <name>Method Editor Themes</name>
+  <Relationships>
+   <Item type="Value" id="41828E0AD37546EBB403469067B8AA40" action="add">
+    <label xml:lang="en">Ambiance</label>
+    <sort_order>128</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>ambiance</value>
+   </Item>
+   <Item type="Value" id="C63C4DCF75FD41248C72561EA5E0A05D" action="add">
+    <label xml:lang="en">Chaos</label>
+    <sort_order>256</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>chaos</value>
+   </Item>
+   <Item type="Value" id="9CCF13B6716247A4A090144368764DDC" action="add">
+    <label xml:lang="en">Chrome</label>
+    <sort_order>384</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>chrome</value>
+   </Item>
+   <Item type="Value" id="FEBD93AD78194600A28D4A9FF32A0696" action="add">
+    <label xml:lang="en">Clouds</label>
+    <sort_order>512</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>clouds</value>
+   </Item>
+   <Item type="Value" id="A10DBF2227434C5482DCF5D28A8EAF87" action="add">
+    <label xml:lang="en">Clouds Midnight</label>
+    <sort_order>640</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>clouds_midnight</value>
+   </Item>
+   <Item type="Value" id="926FD60E8E53403E8269DB11D2A4CAB6" action="add">
+    <label xml:lang="en">Cobalt</label>
+    <sort_order>768</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>cobalt</value>
+   </Item>
+   <Item type="Value" id="574B13C341DF4B23926EC724AC5FB014" action="add">
+    <label xml:lang="en">Crimson Editor</label>
+    <sort_order>896</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>crimson_editor</value>
+   </Item>
+   <Item type="Value" id="EF0BBEA6E734443CA75BA35B054E8522" action="add">
+    <label xml:lang="en">Dawn</label>
+    <sort_order>1024</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>dawn</value>
+   </Item>
+   <Item type="Value" id="CE287AB1B8B149C3824EF0AA0BFEFAF2" action="add">
+    <label xml:lang="en">Dreamweaver</label>
+    <sort_order>1152</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>dreamweaver</value>
+   </Item>
+   <Item type="Value" id="170E790FEC49450E8573C4EA14A41B69" action="add">
+    <label xml:lang="en">Eclipse</label>
+    <sort_order>1280</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>eclipse</value>
+   </Item>
+   <Item type="Value" id="85F428F02B434A8D9633B00E0B2A27DD" action="add">
+    <label xml:lang="en">GitHub</label>
+    <sort_order>1408</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>github</value>
+   </Item>
+   <Item type="Value" id="93E72FA7219B4FD9B7802B28F196207C" action="add">
+    <label xml:lang="en">Idle Fingers</label>
+    <sort_order>1536</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>idle_fingers</value>
+   </Item>
+   <Item type="Value" id="30248836206244369AD9F09801D145E7" action="add">
+    <label xml:lang="en">Katzenmilch</label>
+    <sort_order>1664</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>katzenmilch</value>
+   </Item>
+   <Item type="Value" id="A8DCE98E83CE49EF809BF152BA30466B" action="add">
+    <label xml:lang="en">KR Theme</label>
+    <sort_order>1792</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>kr_theme</value>
+   </Item>
+   <Item type="Value" id="443DE987627C43C4AB7E71EF7112F8F9" action="add">
+    <label xml:lang="en">Kuroir</label>
+    <sort_order>1920</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>kuroir</value>
+   </Item>
+   <Item type="Value" id="44F689BB50FB428AB4E94B432E84251A" action="add">
+    <label xml:lang="en">Merbivore</label>
+    <sort_order>2048</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>merbivore</value>
+   </Item>
+   <Item type="Value" id="4E426A26A2474DEC89ADF8D5D1E4D2FB" action="add">
+    <label xml:lang="en">Merbivore Soft</label>
+    <sort_order>2176</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>merbivore_soft</value>
+   </Item>
+   <Item type="Value" id="FB9803425C3344A7A26B8FC24906F869" action="add">
+    <label xml:lang="en">Mono Industrial</label>
+    <sort_order>2304</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>mono_industrial</value>
+   </Item>
+   <Item type="Value" id="740D78029821434B9049234A4C8B19E2" action="add">
+    <label xml:lang="en">Monokai</label>
+    <sort_order>2432</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>monokai</value>
+   </Item>
+   <Item type="Value" id="09BE831509CA4E929A954E73BAA82848" action="add">
+    <label xml:lang="en">Pastel on Dark</label>
+    <sort_order>2560</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>pastel_on_dark</value>
+   </Item>
+   <Item type="Value" id="4CAF2E1A55054056AB77A403B852ECB9" action="add">
+    <label xml:lang="en">Solarized Dark</label>
+    <sort_order>2688</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>solarized_dark</value>
+   </Item>
+   <Item type="Value" id="860F3CD9C0824679A850197937F56CB4" action="add">
+    <label xml:lang="en">Solarized Light</label>
+    <sort_order>2816</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>solarized_light</value>
+   </Item>
+   <Item type="Value" id="E06B93D29E2F4C078781550D7257EEDC" action="add">
+    <label xml:lang="en">Terminal</label>
+    <sort_order>2944</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>terminal</value>
+   </Item>
+   <Item type="Value" id="AAD19B3EBA62454F839E4F4A4B6A9BD2" action="add">
+    <label xml:lang="en">Textmate</label>
+    <sort_order>3072</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>textmate</value>
+   </Item>
+   <Item type="Value" id="7EC39AE7BCD849789A07D4545F40A8B7" action="add">
+    <label xml:lang="en">Tomorrow</label>
+    <sort_order>3200</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>tomorrow</value>
+   </Item>
+   <Item type="Value" id="B40379ECC1984CDCB0F56035150F1E4B" action="add">
+    <label xml:lang="en">Tomorrow Night</label>
+    <sort_order>3328</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>tomorrow_night</value>
+   </Item>
+   <Item type="Value" id="1CBC7959165A40F1B644AFFA90A7CC27" action="add">
+    <label xml:lang="en">Tomorrow Night Blue</label>
+    <sort_order>3456</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>tomorrow_night_blue</value>
+   </Item>
+   <Item type="Value" id="02CFC587CEB6453294E2B65545F1BDD6" action="add">
+    <label xml:lang="en">Tomorrow Night Bright</label>
+    <sort_order>3584</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>tomorrow_night_bright</value>
+   </Item>
+   <Item type="Value" id="6DB51F956F324EB7AC6EE6D5A82D1F17" action="add">
+    <label xml:lang="en">Tomorrow Night 80s</label>
+    <sort_order>3712</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>tomorrow_night_eighties</value>
+   </Item>
+   <Item type="Value" id="5F72475E47734B83AE38ACE3C6ACBED1" action="add">
+    <label xml:lang="en">Twilight</label>
+    <sort_order>3840</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>twilight</value>
+   </Item>
+   <Item type="Value" id="54A48E6AFFB5424992D8B9A5880E76EE" action="add">
+    <label xml:lang="en">Vibrant Ink</label>
+    <sort_order>3968</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>vibrant_ink</value>
+   </Item>
+   <Item type="Value" id="254E3FCB735442F093EB1C3E52EF202A" action="add">
+    <label xml:lang="en">XCode</label>
+    <sort_order>4096</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>xcode</value>
+   </Item>
+  </Relationships>
+ </Item>
+</AML>
