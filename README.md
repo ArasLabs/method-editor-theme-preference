@@ -5,13 +5,24 @@ This package adds a field to the User Preferences to allow users to select their
 ## Project Details
 
 #### Built Using:
-Aras 11.0 SP10
+Aras 11.0 SP11
+
+#### History:
+Release | Notes
+--------|--------
+[v1.2](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.2) | Upgraded to 11.0 SP11
+[v1](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1) | Initial Release
 
 #### Versions Tested:
-Aras 11.0 SP10, Aras 11.0 SP9 (open release) 
+Release | Aras
+--------|-------
+[v1.2](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.2) | 11.0 SP11
+[v1](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1) | 11.0 SP9-SP10 
 
 #### Browsers Tested:
 Internet Explorer 11, Firefox 45 ESR, Chrome
+
+> [v1.2](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.2) should be used only with 11.0 SP11 as it contains additional themes that were not present in earlier versions. Though [v1](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1) was built using 11.0 SP10, this version of the project should function in older releases of Aras Innovator 11.0.
 
 ## Installation
 
@@ -20,7 +31,7 @@ Internet Explorer 11, Firefox 45 ESR, Chrome
 
 ### Pre-requisites
 
-1. Aras Innovator installed (version 11.0 SPx preferred)
+1. Aras Innovator installed (version 11.0 SP9+ preferred)
 2. Aras Package Import tool
 3. RunClientMethod import package
 

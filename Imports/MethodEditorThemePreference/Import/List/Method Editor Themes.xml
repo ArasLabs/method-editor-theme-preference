@@ -68,11 +68,29 @@
     <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
     <value>github</value>
    </Item>
+   <Item type="Value" id="B77445E557104C7EA91CBD2458C1C287" action="add">
+    <label xml:lang="en">Gob</label>
+    <sort_order>1450</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>gob</value>
+   </Item>
+   <Item type="Value" id="A0A4758C5D184DE4AA84A15A4FE57F64" action="add">
+    <label xml:lang="en">Gruvbox</label>
+    <sort_order>1475</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>gruvbox</value>
+   </Item>
    <Item type="Value" id="93E72FA7219B4FD9B7802B28F196207C" action="add">
     <label xml:lang="en">Idle Fingers</label>
     <sort_order>1536</sort_order>
     <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
     <value>idle_fingers</value>
+   </Item>
+   <Item type="Value" id="C82E4AD8C5114325895AC5F434C7A8E1" action="add">
+    <label xml:lang="en">iPlastic</label>
+    <sort_order>1600</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>iplastic</value>
    </Item>
    <Item type="Value" id="30248836206244369AD9F09801D145E7" action="add">
     <label xml:lang="en">Katzenmilch</label>
