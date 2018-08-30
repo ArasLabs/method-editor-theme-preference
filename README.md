@@ -16,13 +16,13 @@ Release | Notes
 #### Versions Tested:
 Release | Aras
 --------|-------
-[v1.2](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.2) | 11.0 SP11
+[v1.2](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.2) | 11.0 SP11, 11.0SP12, 11.0 SP14
 [v1](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1) | 11.0 SP9-SP10 
 
 #### Browsers Tested:
 Internet Explorer 11, Firefox 45 ESR, Chrome
 
-> [v1.2](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.2) should be used only with 11.0 SP11 as it contains additional themes that were not present in earlier versions. Though [v1](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1) was built using 11.0 SP10, this version of the project should function in older releases of Aras Innovator 11.0.
+> [v1.2](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.2) should be used only with 11.0 SP11+ as it contains additional themes that were not present in earlier versions. Though [v1](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1) was built using 11.0 SP10, this version of the project should function in older releases of Aras Innovator 11.0.
 
 ## Installation
 
