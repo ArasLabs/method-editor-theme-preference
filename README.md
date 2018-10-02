@@ -10,19 +10,21 @@ Aras 11.0 SP11
 #### History:
 Release | Notes
 --------|--------
+[v1.3](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.3) | Upgraded to 11.0 SP15
 [v1.2](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.2) | Upgraded to 11.0 SP11
 [v1](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1) | Initial Release
 
 #### Versions Tested:
 Release | Aras
 --------|-------
+[v1.3](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.3) | 11.0 SP15
 [v1.2](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.2) | 11.0 SP11, 11.0SP12, 11.0 SP14
 [v1](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1) | 11.0 SP9-SP10 
 
 #### Browsers Tested:
 Internet Explorer 11, Firefox 45 ESR, Chrome
 
-> [v1.2](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.2) should be used only with 11.0 SP11+ as it contains additional themes that were not present in earlier versions. Though [v1](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1) was built using 11.0 SP10, this version of the project should function in older releases of Aras Innovator 11.0.
+> Some service packs introduce additional themes that were not avilable in older versions. For example, [v1.3](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.3) contains the SQL Server theme which was not present in versions earlier than 11.0 SP15. When downloading this project, please make sure to download the a version that is specifically supported with the Aras Innovator service pack you are using.
 
 ## Installation
 
