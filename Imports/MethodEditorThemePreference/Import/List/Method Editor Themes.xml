@@ -152,6 +152,12 @@
     <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
     <value>solarized_light</value>
    </Item>
+   <Item type="Value" id="F91B6AA20A3A4FC2ABC561F5C51FB608" action="add">
+    <label xml:lang="en">SQL Server</label>
+    <sort_order>2880</sort_order>
+    <source_id keyed_name="Method Editor Themes" type="List">8642E490164A45CD93BF9799578DA2D8</source_id>
+    <value>sqlserver</value>
+   </Item>
    <Item type="Value" id="E06B93D29E2F4C078781550D7257EEDC" action="add">
     <label xml:lang="en">Terminal</label>
     <sort_order>2944</sort_order>
