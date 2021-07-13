@@ -5,11 +5,12 @@ This package adds a field to the User Preferences to allow users to select their
 ## Project Details
 
 #### Built Using:
-Aras 11.0 SP11
+Aras 12.0 SP15
 
 #### History:
 Release | Notes
 --------|--------
+[v1.4](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.4) | Upgraded to 12.0 SP15
 [v1.3](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.3) | Upgraded to 11.0 SP15
 [v1.2](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.2) | Upgraded to 11.0 SP11
 [v1](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1) | Initial Release
@@ -17,12 +18,13 @@ Release | Notes
 #### Versions Tested:
 Release | Aras
 --------|-------
+[v1.4](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.4) | 12.0 SP15
 [v1.3](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.3) | 11.0 SP15
 [v1.2](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.2) | 11.0 SP11, 11.0SP12, 11.0 SP14
 [v1](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1) | 11.0 SP9-SP10 
 
 #### Browsers Tested:
-Internet Explorer 11, Firefox 45 ESR, Chrome
+Chrome
 
 > Some service packs introduce additional themes that were not available in older versions. For example, [v1.3](https://github.com/ArasLabs/method-editor-theme-preference/releases/tag/v1.3) contains the SQL Server theme which was not present in versions earlier than 11.0 SP15. When downloading this project, please make sure to download the version that is specifically supported with the Aras Innovator service pack you are using.
 
@@ -33,7 +35,7 @@ Internet Explorer 11, Firefox 45 ESR, Chrome
 
 ### Pre-requisites
 
-1. Aras Innovator installed (version 11.0 SP9+ preferred)
+1. Aras Innovator installed (version 12.0 SP15+ preferred)
 2. Aras Package Import tool
 3. RunClientMethod import package
 
@@ -43,7 +45,7 @@ Internet Explorer 11, Firefox 45 ESR, Chrome
 These code tree changes only contain a custom icon for the toolbar. If you wish to use your own icon, you may replace the .svg file in the `\Innovator\` folder with your own.
 
 1. Back up your code tree and store the archive in a safe place
-2. Navigate to your local `..\RefreshFromDatabase\` folder
+2. Navigate to your local `..\MethodEditorThemePreference\` folder
 3. Copy the `\Innovator\` folder 
 4. Paste this at the root of your install directory
 + By default this is `C:\Program Files\Aras\Innovator\`
